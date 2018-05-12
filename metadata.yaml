@@ -1,10 +1,16 @@
 _repo: Suomalaisen-teatterin-historia-I-Teatterin-esihistoria-ja-perustaminen_50720
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aspelin-Haapkylä, Eliel
     gutenberg_agent_id: '42975'
     url: http://www.gutenberg.org/2009/agents/42975
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50720#Suomalaisen-teatterin-historia-I-Teatterin-esihistoria-ja-perustaminen
 gutenberg_issued: '2015-12-19'
 gutenberg_type: Text
 identifiers:
